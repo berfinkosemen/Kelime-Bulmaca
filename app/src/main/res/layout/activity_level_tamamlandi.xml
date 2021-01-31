@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplan"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".LevelTamamlandi">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/kazandin"
+        android:textColor="@color/yavruagzi"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/puanBitis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/puan_bitis"
+        android:textColor="@color/beyaz"
+
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/zamanBitis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/zaman_bitis"
+        android:textColor="@color/acikyesil"
+
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/yanlisCevaplarBitis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/yanlis_cevaplar"
+        android:textColor="@color/acikyesil"
+
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/dogruCevaplarBitis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/dogru_cevaplar"
+        android:textColor="@color/acikyesil"
+        android:textSize="28sp" />
+
+
+    <Button
+        android:id="@+id/anaMenuyeDonBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/butonturuncu"
+        android:maxWidth="300dp"
+        android:padding="10dp"
+        android:text="@string/ana_menuye_don"
+        android:textAllCaps="false"
+        android:textColor="@color/lacivert"
+        android:textSize="32dp" />
+
+</LinearLayout>

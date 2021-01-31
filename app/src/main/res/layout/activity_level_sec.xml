@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplan"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".LevelSec">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/seviye_secin"
+        android:textColor="@color/beyaz"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <Spinner
+            android:id="@+id/spinnerLevels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/butonmavi"
+            android:gravity="center"
+            android:padding="15dp"
+            android:spinnerMode="dialog" />
+
+        <Spinner
+            android:id="@+id/spinnerSubLevels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/butonmavi"
+            android:gravity="center"
+            android:padding="15dp"
+            android:spinnerMode="dialog" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/oyunaBaslaBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/butonturuncu"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="15dp"
+        android:paddingBottom="10dp"
+        android:text="@string/oyunu_baslat"
+        android:textAllCaps="false"
+        android:textColor="@color/lacivert"
+        android:textSize="28sp" />
+
+</LinearLayout>

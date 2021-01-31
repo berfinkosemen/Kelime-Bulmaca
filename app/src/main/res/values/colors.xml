@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="yavruagzi">#ff9d70</color>
+    <color name="soluklacivert">#2e3547</color>
+    <color name="acikmor">#9788cb</color>
+    <color name="koyumor">#251850</color>
+    <color name="turuncu">#ffbf00</color>
+    <color name="acikmavi">#b1d9e5</color>
+    <color name="mavi">#3c9cb9</color>
+    <color name="solukmor">#556074</color>
+    <color name="lacivert">#2b3548</color>
+    <color name="yesil">#03a279</color>
+    <color name="acikyesil">#7dc8b4</color>
+    <color name="beyaz">#fff</color>
+    <color name="siyah">#000</color>
+    <color name="mor">#8e275f</color>
+    <color name="aciksari">#fffb80</color>
+    <color name="bej">#FFF6F6</color>
+</resources>

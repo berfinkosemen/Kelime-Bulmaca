@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Kelime Bulmaca</string>
+
+    <string name="harfleri_karistir">Harfleri Karıştır</string>
+    <string name="puan">Puan : </string>
+    <string name="dogru_cevaplar">Doğru Cevaplar :</string>
+    <string name="ana_menuye_don">Ana Menüye Dön</string>
+    <string name="oyunu_baslat">Oyuna Başla</string>
+    <string name="kelime_bulmaca">Kelime Bulmaca</string>
+    <string name="oyuna_hosgeldiniz">Kelime Bulmaca Oyununa Hoşgeldiniz!</string>
+    <string name="seviye_secin">Oyuna başlamak için bir seviye seçin.</string>
+
+
+    <string name="level1">Kolay - 3 Harf</string>
+    <string name="level2">Orta - 4 Harf</string>
+    <string name="level3">Zor - 5+ Harf</string>
+
+    <string name="sublevel1">Level 1</string>
+    <string name="sublevel2">Level 2</string>
+    <string name="sublevel3">Level 3</string>
+    <string name="sublevel4">Level 4</string>
+    <string name="sublevel5">Level 5</string>
+    <string name="sublevel6">Level 6</string>
+
+
+    <string-array name="levels">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+    </string-array>
+
+    <string-array name="subLevels">
+        <item>@string/sublevel1</item>
+        <item>@string/sublevel2</item>
+        <item>@string/sublevel3</item>
+        <item>@string/sublevel4</item>
+        <item>@string/sublevel5</item>
+        <item>@string/sublevel6</item>
+    </string-array>
+
+
+    <string-array name="levelsScore">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>"Tümünü görüntüle"</item>
+    </string-array>
+
+    <string-array name="subLevelsScore">
+        <item>@string/sublevel1</item>
+        <item>@string/sublevel2</item>
+        <item>@string/sublevel3</item>
+        <item>@string/sublevel4</item>
+        <item>@string/sublevel5</item>
+        <item>@string/sublevel6</item>
+        <item>"Tümünü görüntüle"</item>
+    </string-array>
+
+
+    <string name="bilinen_kelimeler">Bilinen Kelimeler:</string>
+    <string name="kazandin">KAZANDIN!</string>
+    <string name="puan_bitis">PUAN :</string>
+    <string name="zaman_bitis">Geçen Zaman :</string>
+    <string name="yanlis_cevaplar">Yanlış Cevaplar :</string>
+    <string name="zamantxt">Zaman:</string>
+
+
+    <string name="bos_olamaz_toast">Boş bırakılamaz. Bir şeyler yaz.</string>
+    <string name="zaten_bilindi_toast">Bu kelimeyi zaten bildin!</string>
+    <string name="yanlis_cevap_toast">Yanlış Cevap</string>
+    <string name="cikmak_istiyor_musunuz">Uygulamayı kapatmak istiyor musunuz?</string>
+    <string name="evet_kapat">Evet, kapat</string>
+    <string name="hayır_kapatma">Hayır</string>
+
+    <string name="devam_et">Devam et</string>
+    <string name="adini_yaz_txt">Adını yaz</string>
+    <string name="adini_yaz_edt">Örn: Emir</string>
+
+
+    <string name="oyun_adi">KELİME BULMACA</string>
+    <string name="yuksek_skorlar">Yüksek\nSkorlar</string>
+    <string name="oyunu_sifirla">Oyunu\nSıfırla</string>
+    <string name="seviye_gor">Bitirilen\nSeviyeler</string>
+
+</resources>
+
