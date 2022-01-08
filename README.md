@@ -29,3 +29,4 @@ saklanması beklenmektedir.
 4. Oyuncuya yardımcı olmak açısından kelime oluşturmak için kullanılacak 
 harflerin yerlerini değiştirme özelliği de eklenecektir.
 
+![gorsel](https://user-images.githubusercontent.com/44971074/148642716-6ccd8c3f-2780-446b-9f00-b604945dda73.png)
